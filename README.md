@@ -15,3 +15,5 @@ Jogo inspirado em Flappy Bird feito com HTML, CSS e JavaScript puro.
 
 ## Publicação
 O projeto está preparado para ser publicado pelo GitHub Pages e aberto pelo celular.
+
+Deploy configurado para GitHub Pages.
